@@ -1,0 +1,6 @@
+*.csv
+*.db
+datasets_inmuebles
+datasets_yahoofinance
+database
+
